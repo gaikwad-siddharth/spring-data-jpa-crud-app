@@ -64,19 +64,7 @@ src/
 2. Open in IDE (Eclipse/IntelliJ)
 3. Configure database in `application.properties`
 4. Run the main class
-
----
-
-## 📡 API Endpoints (Example)
-
-| Method | Endpoint        | Description       |
-|--------|----------------|------------------|
-| POST   | /users         | Create user      |
-| GET    | /users         | Get all users    |
-| GET    | /users/{id}    | Get user by ID   |
-| PUT    | /users/{id}    | Update user      |
-| DELETE | /users/{id}    | Delete user      |
-
+   
 ---
 
 ## 🎯 Key Benefits
