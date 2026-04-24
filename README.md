@@ -23,16 +23,12 @@ This project showcases how to build a backend application that interacts with a 
 ---
 
 ## 🏗️ Project Structure
-src/
-├── controller/
-│ └── UserController.java
-├── service/
-│ └── UserService.java
-├── repository/
-│ └── UserRepository.java
+src/main/java/in/siddharth/
+├── Application.java
 ├── entity/
-│ └── User.java
-└── Application.java
+│ └── Book.java
+└── repo/
+└── BookRepository.java
 
 ---
 
